@@ -1,10 +1,10 @@
-<!--- - 👋 Hi, I’m @13MrBlackCat13
+- 👋 Hi, I’m @13MrBlackCat13
 - 👀 I’m interested in programming&
 - 🌱 I’m currently learning js.
 - 💞️ I’m looking to collaborate on glitch.
-- 📫 How to reach me ...--->
+<!--- - 📫 How to reach me ...--->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=13MrBlackCat13&show_icons=true&theme=dark)
+<!--- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=13MrBlackCat13&show_icons=true&theme=dark)--->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=13MrBlackCat13&layout=compact&them=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
