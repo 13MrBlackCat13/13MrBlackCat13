@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👯 I’m looking to collaborate on [Kuracord](kurays.ml)
+- 👯 I’m looking to collaborate on [Kuracord](app.kuracord.tk)
 
 - 📝 I regularly write articles on [mrblackcat.ml/blog](mrblackcat.ml/blog)
 
