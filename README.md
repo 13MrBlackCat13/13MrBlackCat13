@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **php, javascript express**
 
-- 📫 How to reach me **https://www.patreon.com/mrblackcat**
+- 📫 How to reach me **[Patreon](https://www.patreon.com/mrblackcat)**
 
 - ⚡ Fun fact **I like cats**
 
