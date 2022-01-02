@@ -13,13 +13,13 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👯 I’m looking to collaborate on [Kuracord](app.kuracord.tk)
+- 👯 I’m looking to collaborate on [Kuracord](https://slink.cf/f4fb0)
 
-- 📝 I regularly write articles on [mrblackcat.ml/blog](mrblackcat.ml/blog)
+- 📝 I regularly write articles on [mrblackcat.dev/blog](https://slink.cf/17am2)
 
 - 💬 Ask me about **php, javascript express**
 
-- 📫 How to reach me **[Patreon](https://www.patreon.com/mrblackcat)**
+- 📫 How to reach me **[Patreon](https://slink.cf/zqdyd)**
 
 - ⚡ Fun fact **I like cats**
 
