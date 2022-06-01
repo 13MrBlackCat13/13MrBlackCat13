@@ -9,13 +9,13 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
 
-- 🔭 I’m currently working on [taplinks](taplinks.ml)
+- 🔭 I’m currently working on [ticketbot](https://blog.mrblackcat.dev)
 
 - 🌱 I’m currently learning **C++**
 
-- 👯 I’m looking to collaborate on [Kuracord](https://slink.cf/f4fb0)
+- 👯 I’m looking to collaborate on [Kuracord](https://kuracord.tk/)
 
-- 📝 I regularly write articles on [mrblackcat.dev/blog](https://slink.cf/17am2)
+- 📝 I regularly write articles on [blog.mrblackcat.dev](https://blog.mrblackcat.dev)
 
 - 💬 Ask me about **php, javascript express**
 
